@@ -1,0 +1,46 @@
+D:\KULIAH\NgelakShop\NgelakShop\bin\Debug\netcoreapp3.1\NgelakShop.exe
+D:\KULIAH\NgelakShop\NgelakShop\bin\Debug\netcoreapp3.1\NgelakShop.deps.json
+D:\KULIAH\NgelakShop\NgelakShop\bin\Debug\netcoreapp3.1\NgelakShop.runtimeconfig.json
+D:\KULIAH\NgelakShop\NgelakShop\bin\Debug\netcoreapp3.1\NgelakShop.runtimeconfig.dev.json
+D:\KULIAH\NgelakShop\NgelakShop\bin\Debug\netcoreapp3.1\NgelakShop.dll
+D:\KULIAH\NgelakShop\NgelakShop\bin\Debug\netcoreapp3.1\NgelakShop.pdb
+D:\KULIAH\NgelakShop\NgelakShop\obj\Debug\netcoreapp3.1\NgelakShop.csprojAssemblyReference.cache
+D:\KULIAH\NgelakShop\NgelakShop\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\KULIAH\NgelakShop\NgelakShop\obj\Debug\netcoreapp3.1\Menu.g.cs
+D:\KULIAH\NgelakShop\NgelakShop\obj\Debug\netcoreapp3.1\Promo.g.cs
+D:\KULIAH\NgelakShop\NgelakShop\obj\Debug\netcoreapp3.1\App.g.cs
+D:\KULIAH\NgelakShop\NgelakShop\obj\Debug\netcoreapp3.1\NgelakShop_MarkupCompile.cache
+D:\KULIAH\NgelakShop\NgelakShop\obj\Debug\netcoreapp3.1\NgelakShop_MarkupCompile.lref
+D:\KULIAH\NgelakShop\NgelakShop\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\KULIAH\NgelakShop\NgelakShop\obj\Debug\netcoreapp3.1\Menu.baml
+D:\KULIAH\NgelakShop\NgelakShop\obj\Debug\netcoreapp3.1\Promo.baml
+D:\KULIAH\NgelakShop\NgelakShop\obj\Debug\netcoreapp3.1\NgelakShop.g.resources
+D:\KULIAH\NgelakShop\NgelakShop\obj\Debug\netcoreapp3.1\NgelakShop.AssemblyInfoInputs.cache
+D:\KULIAH\NgelakShop\NgelakShop\obj\Debug\netcoreapp3.1\NgelakShop.AssemblyInfo.cs
+D:\KULIAH\NgelakShop\NgelakShop\obj\Debug\netcoreapp3.1\NgelakShop.csproj.CoreCompileInputs.cache
+D:\KULIAH\NgelakShop\NgelakShop\obj\Debug\netcoreapp3.1\NgelakShop.dll
+D:\KULIAH\NgelakShop\NgelakShop\obj\Debug\netcoreapp3.1\NgelakShop.pdb
+D:\KULIAH\NgelakShop\NgelakShop\obj\Debug\netcoreapp3.1\NgelakShop.genruntimeconfig.cache
+D:\C#\New folder (3)\NgelakShop-main\NgelakShop\bin\Debug\netcoreapp3.1\NgelakShop.exe
+D:\C#\New folder (3)\NgelakShop-main\NgelakShop\bin\Debug\netcoreapp3.1\NgelakShop.deps.json
+D:\C#\New folder (3)\NgelakShop-main\NgelakShop\bin\Debug\netcoreapp3.1\NgelakShop.runtimeconfig.json
+D:\C#\New folder (3)\NgelakShop-main\NgelakShop\bin\Debug\netcoreapp3.1\NgelakShop.runtimeconfig.dev.json
+D:\C#\New folder (3)\NgelakShop-main\NgelakShop\bin\Debug\netcoreapp3.1\NgelakShop.dll
+D:\C#\New folder (3)\NgelakShop-main\NgelakShop\bin\Debug\netcoreapp3.1\NgelakShop.pdb
+D:\C#\New folder (3)\NgelakShop-main\NgelakShop\obj\Debug\netcoreapp3.1\NgelakShop.csprojAssemblyReference.cache
+D:\C#\New folder (3)\NgelakShop-main\NgelakShop\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\C#\New folder (3)\NgelakShop-main\NgelakShop\obj\Debug\netcoreapp3.1\Menu.g.cs
+D:\C#\New folder (3)\NgelakShop-main\NgelakShop\obj\Debug\netcoreapp3.1\Promo.g.cs
+D:\C#\New folder (3)\NgelakShop-main\NgelakShop\obj\Debug\netcoreapp3.1\App.g.cs
+D:\C#\New folder (3)\NgelakShop-main\NgelakShop\obj\Debug\netcoreapp3.1\NgelakShop_MarkupCompile.cache
+D:\C#\New folder (3)\NgelakShop-main\NgelakShop\obj\Debug\netcoreapp3.1\NgelakShop_MarkupCompile.lref
+D:\C#\New folder (3)\NgelakShop-main\NgelakShop\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\C#\New folder (3)\NgelakShop-main\NgelakShop\obj\Debug\netcoreapp3.1\Menu.baml
+D:\C#\New folder (3)\NgelakShop-main\NgelakShop\obj\Debug\netcoreapp3.1\Promo.baml
+D:\C#\New folder (3)\NgelakShop-main\NgelakShop\obj\Debug\netcoreapp3.1\NgelakShop.g.resources
+D:\C#\New folder (3)\NgelakShop-main\NgelakShop\obj\Debug\netcoreapp3.1\NgelakShop.AssemblyInfoInputs.cache
+D:\C#\New folder (3)\NgelakShop-main\NgelakShop\obj\Debug\netcoreapp3.1\NgelakShop.AssemblyInfo.cs
+D:\C#\New folder (3)\NgelakShop-main\NgelakShop\obj\Debug\netcoreapp3.1\NgelakShop.csproj.CoreCompileInputs.cache
+D:\C#\New folder (3)\NgelakShop-main\NgelakShop\obj\Debug\netcoreapp3.1\NgelakShop.dll
+D:\C#\New folder (3)\NgelakShop-main\NgelakShop\obj\Debug\netcoreapp3.1\NgelakShop.pdb
+D:\C#\New folder (3)\NgelakShop-main\NgelakShop\obj\Debug\netcoreapp3.1\NgelakShop.genruntimeconfig.cache

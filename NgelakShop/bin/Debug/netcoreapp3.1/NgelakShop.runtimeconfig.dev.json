@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Paste Prosmana\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Paste Prosmana\\.nuget\\packages"
+    ]
+  }
+}
